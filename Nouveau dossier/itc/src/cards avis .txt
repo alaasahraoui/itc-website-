@@ -1,0 +1,27 @@
+<div class="card text-white bg-dark mb-3" style="max-width:  18rem ;  display: inline-block ;   margin:   100px;" >
+  <div class="card-header">membre du club </div>
+  <div class="card-body">
+  <img src="./images/contact.png" alt="" style="width: 100px ; height: 100px ; border-radius: 100% ;"> 
+    <h5 class="card-title">mon experience</h5>
+    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, facilis.</p>
+  </div>
+</div> 
+
+<div class="card text-white bg-dark mb-3" style="max-width:  18rem ;  display: inline-block ;   margin:   100px;" >
+  <div class="card-header">membre du club </div>
+  <div class="card-body">
+  <img src="./images/contact.png" alt="" style="width: 100px ; height: 100px ; border-radius: 100% ;"> 
+    <h5 class="card-title">mon experience</h5>
+    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, facilis.</p>
+  </div>
+</div> 
+
+<div class="card text-white bg-dark mb-3" style="max-width:  18rem ;  display: inline-block ;   margin:   100px;" >
+  <div class="card-header">membre du club </div>
+  <div class="card-body">
+  <img src="./images/me.png" alt="" style="width: 100px ; height: 100px ; border-radius: 100% ;"> 
+    <h5 class="card-title">mon experience</h5>
+    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, facilis.</p>
+
+  </div>
+</div> 
