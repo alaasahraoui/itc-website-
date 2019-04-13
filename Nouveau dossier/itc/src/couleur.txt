@@ -1,0 +1,23 @@
+/** couleur **/
+ - balck
+ - white
+ - orange
+ - golde (#d4af37)
+ - grenant-dark  (#510707)
+ - grenant-light   (#7f1515)
+ - info (#36b9cc)
+ - info-dark (#2b97a5)
+ - danger (#e74a3b)
+ - danger-dark (#b91a14)
+ - success (#1cc88a)
+ - success-dark (#15a872)
+ - warning (#f6c23e)
+ - warning-dark (#c4992d)
+ - red cvadé (#e23740)
+
+/** taille **/
+.col- (extra small devices - screen width less than 576px)
+.col-sm- (small devices - screen width equal to or greater than 576px)
+.col-md- (medium devices - screen width equal to or greater than 768px)
+.col-lg- (large devices - screen width equal to or greater than 992px)
+.col-xl- (xlarge devices - screen width equal to or greater than 1200px)
