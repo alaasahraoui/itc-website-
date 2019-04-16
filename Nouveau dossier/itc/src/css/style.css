@@ -420,7 +420,7 @@ ul.social-icons {
 }
 .material-card.mc-active .mc-description {
   top: 50px;
-  padding-top: 5.6em;
+  padding-top:40px ;
   opacity: 1;
   filter: alpha(opacity=100);
 }
